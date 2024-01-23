@@ -1,0 +1,170 @@
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\appsettings.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.exe
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.deps.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.runtimeconfig.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Service.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Service.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.csproj.AssemblyReference.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.sourcelink.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets\msbuild.DotnetYuzuncuYil.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets\msbuild.build.DotnetYuzuncuYil.API.props
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DotnetYuzuncuYil.API.props
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DotnetYuzuncuYil.API.props
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\scopedcss\bundle\DotnetYuzuncuYil.API.styles.css
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.csproj.CopyComplete
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\refint\DotnetYuzuncuYil.API.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.genruntimeconfig.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\ref\DotnetYuzuncuYil.API.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\appsettings.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.exe
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.deps.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.runtimeconfig.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.API.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Service.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Service.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.csproj.AssemblyReference.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.sourcelink.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets\msbuild.DotnetYuzuncuYil.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets\msbuild.build.DotnetYuzuncuYil.API.props
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DotnetYuzuncuYil.API.props
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DotnetYuzuncuYil.API.props
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\scopedcss\bundle\DotnetYuzuncuYil.API.styles.css
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.csproj.CopyComplete
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\refint\DotnetYuzuncuYil.API.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\DotnetYuzuncuYil.API.genruntimeconfig.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.API\obj\Debug\net6.0\ref\DotnetYuzuncuYil.API.dll

@@ -1,0 +1,36 @@
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.deps.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.runtimeconfig.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.csproj.AssemblyReference.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.sourcelink.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.csproj.CopyComplete
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\refint\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.genruntimeconfig.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\ref\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.deps.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.runtimeconfig.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Repository.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.csproj.AssemblyReference.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.sourcelink.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.csproj.CopyComplete
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\refint\DotnetYuzuncuYil.Repository.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\DotnetYuzuncuYil.Repository.genruntimeconfig.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Repository\obj\Debug\net6.0\ref\DotnetYuzuncuYil.Repository.dll

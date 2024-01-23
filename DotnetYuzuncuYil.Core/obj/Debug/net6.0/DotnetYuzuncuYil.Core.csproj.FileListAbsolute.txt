@@ -1,0 +1,24 @@
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.deps.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.sourcelink.json
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\refint\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\ref\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.deps.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.sourcelink.json
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\refint\DotnetYuzuncuYil.Core.dll
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\BERKAY\Desktop\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\ref\DotnetYuzuncuYil.Core.dll
